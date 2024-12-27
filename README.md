@@ -1,6 +1,6 @@
 ## Handtracking Volume Control ✋
 
-pastikan sistem memiliki :
+Pastikan sistem memiliki :
 - `Python v3.x`
 - `Mediapipe`
 - `OpenCv`
